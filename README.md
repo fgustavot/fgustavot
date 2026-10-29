@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="assets/galaxy-banner.gif" alt="Galáxia negra com estrelas e cometas animados" />
+<img width="100%" src="assets/fgustavot_github_banner.gif" alt="Galáxia negra com estrelas e cometas animados" />
 
-# fgustavot
+# Gustavo
 ### `Full Stack Developer` · Em constante aprendizado
 
 Explorando ideias, construindo projetos e evoluindo **um commit de cada vez**. 🚀
